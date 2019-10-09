@@ -3,7 +3,7 @@ import zmq
 import os
 import json
 
-from .util import *
+from util import *
 
 logger = logging.getLogger(__name__)
 

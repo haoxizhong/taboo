@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="taboo",
-    version="0.8.6",
+    version="0.8.8",
     author="Zhong Haoxi",
     author_email="zhonghaoxi@yeah.net",
     description="Codes for taboo.",
